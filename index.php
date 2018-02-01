@@ -27,9 +27,10 @@
 
 	<body>
 		<header>
-			<h1>Hello World</h1>
+
 			<div class="container"><!--or container-fluid-->
 				<div class="row">
+					<h1>Hello World</h1>
 					<div class="col"></div>
 				</div>
 			</div>
