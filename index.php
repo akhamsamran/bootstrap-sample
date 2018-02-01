@@ -37,7 +37,7 @@
 		<main>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-6">
+					<div class="col-12">
 						<p>Bacon ipsum dolor amet doner pork chop shoulder, filet mignon t-bone jerky buffalo beef brisket ham burgdoggen. Turkey salami strip steak biltong beef bacon tri-tip short loin tail picanha meatloaf tongue prosciutto ball tip buffalo. Ribeye drumstick fatback tongue, swine short ribs tri-tip picanha jowl t-bone turducken pancetta chicken alcatra pork chop. Strip steak tenderloin spare ribs short loin. Biltong sirloin pork loin burgdoggen short ribs meatball. Boudin jowl spare ribs, kielbasa rump chicken drumstick pork chop turkey pork loin corned beef chuck sirloin ground round. Buffalo porchetta boudin pork chop andouille cupim, shankle beef hamburger spare ribs turkey pork doner biltong</p>
 					</div>
 					<div class="col-sm-6">
@@ -46,7 +46,7 @@
 					<div class="col-sm-6">
 						<p>Bacon ipsum dolor amet doner pork chop shoulder, filet mignon t-bone jerky buffalo beef brisket ham burgdoggen. Turkey salami strip steak biltong beef bacon tri-tip short loin tail picanha meatloaf tongue prosciutto ball tip buffalo. Ribeye drumstick fatback tongue, swine short ribs tri-tip picanha jowl t-bone turducken pancetta chicken alcatra pork chop. Strip steak tenderloin spare ribs short loin. Biltong sirloin pork loin burgdoggen short ribs meatball. Boudin jowl spare ribs, kielbasa rump chicken drumstick pork chop turkey pork loin corned beef chuck sirloin ground round. Buffalo porchetta boudin pork chop andouille cupim, shankle beef hamburger spare ribs turkey pork doner biltong</p>
 					</div>
-					<div class="col-sm-6">
+					<div class="col-12">
 						<p>Bacon ipsum dolor amet doner pork chop shoulder, filet mignon t-bone jerky buffalo beef brisket ham burgdoggen. Turkey salami strip steak biltong beef bacon tri-tip short loin tail picanha meatloaf tongue prosciutto ball tip buffalo. Ribeye drumstick fatback tongue, swine short ribs tri-tip picanha jowl t-bone turducken pancetta chicken alcatra pork chop. Strip steak tenderloin spare ribs short loin. Biltong sirloin pork loin burgdoggen short ribs meatball. Boudin jowl spare ribs, kielbasa rump chicken drumstick pork chop turkey pork loin corned beef chuck sirloin ground round. Buffalo porchetta boudin pork chop andouille cupim, shankle beef hamburger spare ribs turkey pork doner biltong</p>
 					</div>
 				</div>
